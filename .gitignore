@@ -4,5 +4,5 @@
 **/playwright-report/
 **/playwright/.cache/
 **/test-results/
-
+data
 __pycache__/
